@@ -41,6 +41,8 @@ Learning Roadmap:
 
 
 Folder Structure:
+
+```text
 python-learning-journey/
 │
 ├── README.md
