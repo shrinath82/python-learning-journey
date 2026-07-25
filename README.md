@@ -99,7 +99,7 @@ Technologies Used:
 
 
 Progress:
-- [ ] Variables
+- [*] Variables
 - [ ] Functions
 - [ ] Conditionals
 - [ ] Loops
