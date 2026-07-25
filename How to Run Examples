@@ -1,0 +1,41 @@
+How to Run Examples:
+--------------------
+1. Verify Python is installed
+python3 --version
+
+2. Verify the `venv` module is available
+python3 -m venv --help
+
+If it is not available:
+sudo apt update
+sudo apt install python3-venv
+
+3. Navigate to the project directory
+cd python-learning-journey
+
+4. Create a virtual environment
+python3 -m venv .venv
+
+5. Activate the virtual environment
+source .venv/bin/activate
+
+If your prompt changes to something similar to:
+(.venv) user@host:~/python-learning-journey$
+
+the virtual environment is active.
+
+6. Install project dependencies (if applicable)
+Example: pip install pygame requests
+
+7. Run any example
+python 01_variables/example1.py
+
+8. Deactivate the virtual environment
+deactivate
+
+Note: Every example in this repository is designed to be run independently. 
+Execute the programs, observe the output, and experiment by modifying the code to reinforce each concept.
+
+
+ 
+                                                                 
