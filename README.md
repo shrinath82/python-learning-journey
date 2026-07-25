@@ -54,6 +54,7 @@ python-learning-journey/
 ├── 04_loops/
 ├── ...
 └── capstone_game/
+```
 
 
 Each topic contains:
