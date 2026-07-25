@@ -8,4 +8,4 @@ Learning Python core and advanced concepts through hands-on examples and game de
 - [How to Run Examples](#how-to-run-examples)
 - [Technologies Used](#technologies-used)
 - [License](#license)
-- [Capstone Project](#capstone-project)
+- [Capstone Project](#capstone-project) PENDING
