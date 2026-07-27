@@ -1,0 +1,5 @@
+#Example-2:String_Expression
+
+text = "Hello " + "World"
+
+print(text)

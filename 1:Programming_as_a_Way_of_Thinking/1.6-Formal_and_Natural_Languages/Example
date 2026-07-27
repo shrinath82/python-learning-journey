@@ -1,0 +1,7 @@
+#1.6-Formal_and_Natural_Languages
+#This is a conceptual topic, but a simple example shows the difference.
+
+#Example: Natural language: Add five and six.
+
+#Formal language (Python)
+print(5 + 6)

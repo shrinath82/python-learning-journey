@@ -1,0 +1,5 @@
+#Example-6:Modulus %
+a = 10
+b = 4
+
+print(a % b)

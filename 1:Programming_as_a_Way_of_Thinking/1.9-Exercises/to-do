@@ -1,0 +1,47 @@
+1.9 Exercises: Try these without looking at the answer first.
+Exercise 1: Write a program to calculate the area of a rectangle.
+
+Expected Output: Area = 60
+
+---
+Exercise 2: Print your name five times using one statement.
+
+Expected Output:
+John
+John
+John
+John
+John
+
+---
+Exercise 3: Find the remainder when 57 is divided by 8.
+
+Expected Output: 1
+
+---
+Exercise 4: Create variables storing:
+* Your name
+* Your age
+* Whether you are employed
+
+Print all three.
+
+Expected Output:
+Name: Alice
+Age: 30
+Employed: True
+
+---
+Exercise 5:Print the type of the following values:
+* `100`
+* `10.5`
+* `"Linux"`
+* `False`
+
+Expected Output:
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+
+

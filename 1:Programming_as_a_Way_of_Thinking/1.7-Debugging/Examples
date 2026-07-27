@@ -1,0 +1,23 @@
+#1.7-Debugging
+#Below are common debugging situations.
+
+#Example 1 – Syntax Error
+print("Hello"
+
+#Example 2 – Name Error
+print(age)
+
+#Example 3 – Type Error
+print("Age:" + 25)
+#Correct: print("Age:", 25)
+
+#Example 4 – Zero Division Error
+print(10 / 0)
+
+#Example 5 – Logic Error
+length = 10
+width = 5
+area = length + width
+print(area)
+
+#Correct version: area = length * width

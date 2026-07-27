@@ -1,0 +1,19 @@
+#Example 1 – Integer
+x = 25
+print(type(x))
+
+#Example 2 – Float
+x = 12.75
+print(type(x))
+
+#Example 3 – String
+x = "Linux"
+print(type(x))
+
+#Example 4 – Boolean
+x = True
+print(type(x))
+
+#Example 5 – Complex Number
+x = 3 + 4j
+print(type(x))
