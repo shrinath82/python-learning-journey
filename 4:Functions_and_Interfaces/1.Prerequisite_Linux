@@ -1,0 +1,7 @@
+"""
+This chapter introduces interfaces—the idea that Python code can interact with the outside world (graphics, keyboard, mouse, sound, etc.). 
+Although the examples use the turtle module, the concepts apply directly to later game development with libraries such as Pygame or Godot.
+
+Prerequisite (Linux Ubuntu), Install Tkinter if needed:
+sudo apt install python3-tk
+"""
