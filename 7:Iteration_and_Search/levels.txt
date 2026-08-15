@@ -1,0 +1,5 @@
+Forest
+Desert
+Castle
+Dungeon
+Space
