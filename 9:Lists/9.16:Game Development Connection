@@ -1,0 +1,15 @@
+#Lists are a major milestone because you can now represent collections of game objects:
+enemies = ["Dragon", "Goblin", "Orc"]
+inventory = ["Sword", "Potion", "Key"]
+levels = [1, 2, 3, 4, 5]
+
+
+#And then operate on the entire collection:
+for enemy in enemies:
+    move_enemy(enemy)
+
+
+#The important progression is now:
+Variables → Functions → Conditions → Loops → Strings → Lists
+
+At this point, you have the basic tools needed to start representing a small game world. The next collection types will make that representation much richer: dictionaries for named/keyed data and tuples for fixed collections.
